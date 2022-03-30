@@ -1,1 +1,21 @@
 # Ozi-Bots-V13
+
+# Görseller
+![image](https://user-images.githubusercontent.com/92666466/160767938-d9429181-31ed-4a90-bf88-5426573af712.png)
+![image](https://user-images.githubusercontent.com/92666466/160770587-6fe1dda6-2738-42a8-a7d0-7d47313367cf.png)
+![image](https://user-images.githubusercontent.com/92666466/160770600-ce80f22b-bef2-4e1e-aac5-59e49ac98a08.png)
+![image](https://user-images.githubusercontent.com/92666466/160770635-b05f7c10-c8ba-427f-bd36-a83fcfa60a32.png)
+![image](https://user-images.githubusercontent.com/92666466/160770651-379c42cf-9c3d-40cd-a6ac-48e7ae69514c.png)
+![image](https://user-images.githubusercontent.com/92666466/160770674-e2d87e12-cdbc-4f21-92af-66161bae6571.png)
+![image](https://user-images.githubusercontent.com/92666466/160770694-76d36e39-6e69-4a44-a12c-eb2d2f25e829.png)
+![image](https://user-images.githubusercontent.com/92666466/160770702-39a27484-1f49-4433-87eb-65adccebd21b.png)
+![image](https://user-images.githubusercontent.com/92666466/160770728-6fdeec8b-aa20-4613-8fb4-d5ded96b379f.png)
+![image](https://user-images.githubusercontent.com/92666466/160770741-717b7ed1-6677-4d1a-8211-14aa18847cfa.png)
+![image](https://user-images.githubusercontent.com/92666466/160770757-acdb03dc-7714-4ec0-9f79-8ca4befa6e1e.png)
+![image](https://user-images.githubusercontent.com/92666466/160770776-36e81a78-fe07-4de6-a59a-d73b7363605a.png)
+![image](https://user-images.githubusercontent.com/92666466/160770788-b631637c-cc46-419e-a7d0-9cf958624a34.png)
+![image](https://user-images.githubusercontent.com/92666466/160770798-c62c33f8-d353-4858-8f57-0e8c01735490.png)
+![image](https://user-images.githubusercontent.com/92666466/160770811-828533c3-48df-471f-ad4a-d1739605e9b3.png)
+![image](https://user-images.githubusercontent.com/92666466/160770826-a1cc2047-71fa-4a58-b488-18835aa0aefe.png)
+![image](https://user-images.githubusercontent.com/92666466/160770843-91d62d45-ba5c-4159-8623-18a1a7094fa4.png)
+![image](https://user-images.githubusercontent.com/92666466/160770851-8753f110-796b-4533-baab-5cddb4399f2c.png)
