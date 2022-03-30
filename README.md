@@ -2,6 +2,7 @@
 
 # Görseller
 ![image](https://user-images.githubusercontent.com/92666466/160767938-d9429181-31ed-4a90-bf88-5426573af712.png)
+![image](https://user-images.githubusercontent.com/92666466/160771381-3807d0d7-87ea-4b78-a654-f57ff01d2f99.png)
 ![image](https://user-images.githubusercontent.com/92666466/160770587-6fe1dda6-2738-42a8-a7d0-7d47313367cf.png)
 ![image](https://user-images.githubusercontent.com/92666466/160770600-ce80f22b-bef2-4e1e-aac5-59e49ac98a08.png)
 ![image](https://user-images.githubusercontent.com/92666466/160770635-b05f7c10-c8ba-427f-bd36-a83fcfa60a32.png)
